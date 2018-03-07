@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ElectronicsList</string>
+
+    <string name="lgArm">Арм</string>
+    <string name="lgRus">Рус</string>
+    <string name="lgEnglish">Англ</string>
+
+    <string-array name="categories">
+        <item>Телевизор</item>
+        <item>Планшет</item>
+        <item>Телефон</item>
+        <item>Холодильник</item>
+    </string-array>
+
+    <string name="empty">Нет данных</string>
+</resources>

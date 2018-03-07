@@ -1,0 +1,177 @@
+{
+  "electronics": [
+    {
+      "category": "TV",
+      "sub": [
+        {
+          "subName": "smart",
+          "sub": [
+            {
+              "subName": "",
+              "products": [
+                {
+                  "name": "SONY 49WE754"
+                },
+                {
+                  "name": "SONY 43XE8077SR2"
+                },
+                {
+                  "name": "SONY 32WE613BR"
+                }
+              ],
+              "sub": []
+            },
+            {
+              "subName": "",
+              "products": [
+                {
+                  "name": "LG 43UJ651V"
+                },
+                {
+                  "name": "LG 55UJ630V"
+                }
+              ],
+              "sub": []
+            },
+            {
+              "subName": "",
+              "products": [
+                {
+                  "name": "TOSHIBA 49L3660EV"
+                },
+                {
+                  "name": "TOSHIBA 32S1750EV"
+                },
+                {
+                  "name": "TOSHIBA 43U7750EV"
+                }
+              ],
+              "sub": []
+            }
+          ],
+          "products": []
+        },
+        {
+          "subName": "",
+          "sub": [],
+          "products": [
+            {
+              "name": "LG 49LF620"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": "Panasonic TH-32A400X"
+        },
+        {
+          "name": "BERG 32DS3000"
+        }
+      ]
+    },
+    {
+      "category": "Tablet",
+      "sub": [
+        {
+          "subName": "",
+          "sub": [],
+          "products": [
+            {
+              "name": "ASUS Z301ML-1B014A"
+            },
+            {
+              "name": "ASUS Z380KNL-6L029A"
+            }
+          ]
+        },
+        {
+          "subName": "",
+          "sub": [],
+          "products": [
+            {
+              "name": "LENOVO Tab3 (X70L 16 GB)"
+            },
+            {
+              "name": "Yoga Tab 3 8"
+            }
+          ]
+        }
+      ],
+      "products": []
+    },
+    {
+      "category": "Phone",
+      "sub": [
+        {
+          "subName": "",
+          "sub": [],
+          "products": [
+            {
+              "name": "iPhone 8 64 GB"
+            },
+            {
+              "name": "iPhone X 64Gb"
+            }
+          ]
+        },
+        {
+          "subName": "",
+          "sub": [],
+          "products": [
+            {
+              "name": "SAMSUNG GALAXY S8 SM-G950F"
+            },
+            {
+              "name": "SAMSUNG GALAXY NOTE 8 SM-N950F"
+            },
+            {
+              "name": "SAMSUNG GALAXY A8 A530F (2018)"
+            }
+          ]
+        },
+        {
+          "subName": "",
+          "sub": [],
+          "products": [
+            {
+              "name": "WIKO PULP 4G"
+            },
+            {
+              "name": "WIKO U FEEL LITE"
+            },
+            {
+              "name": "WIKO FEVER S/A"
+            }
+          ]
+        }
+      ],
+      "products": []
+    },
+    {
+      "category": "Refrigerator",
+      "sub": [
+
+        {
+          "subName": "",
+          "sub": [],
+          "products": [
+            {
+              "name": "TSE 1262"
+            },
+            {
+              "name": "CN 168210S"
+            }
+          ]
+        },
+        {
+          "subName": "",
+          "sub": [],
+          "products": []
+
+        }
+      ],
+      "products": []
+    }
+  ]
+}

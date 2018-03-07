@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activity.Electronics">
+    <item
+        android:id="@+id/arm"
+        android:icon="@drawable/am2"
+        android:title="@string/lgArm"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/rus"
+        android:icon="@drawable/ru2"
+        android:title="@string/lgRus"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/eng"
+        android:alphabeticShortcut="@string/lgEnglish"
+        android:icon="@drawable/us2"
+        android:title="@string/lgEnglish"
+        app:showAsAction="ifRoom" />
+</menu>

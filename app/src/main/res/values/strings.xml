@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ElectronicsList</string>
+
+    <string name="lgArm">Armenian</string>
+    <string name="lgRus">Russian</string>
+    <string name="lgEnglish">English</string>
+
+    <string-array name="categories">
+        <item>TV</item>
+        <item>Tablet</item>
+        <item>Phone</item>
+        <item>Refrigerator</item>
+    </string-array>
+
+
+    <string name="empty">There is no data</string>
+</resources>

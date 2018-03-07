@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ElectronicsList</string>
+
+    <string name="lgArm">Հայ</string>
+    <string name="lgRus">Ռուս</string>
+    <string name="lgEnglish">Անգլ</string>
+
+    <string-array name="categories">
+        <item>Հեռւստացույց</item>
+        <item>Պլանշետ</item>
+        <item>Հեռախոս</item>
+        <item>Սառնառան</item>
+    </string-array>
+
+    <string name="empty">Տվյալներ չկան</string>
+</resources>
